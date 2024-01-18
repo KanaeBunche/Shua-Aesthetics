@@ -1,4 +1,4 @@
-<img  alt="Coding" width="100%" height= "100%" src="https://i.ibb.co/VT9kWds/Screenshot-2024-01-18-at-7-52-02-AM.png" border="0">
+<img height="100%" width="100%" src="https://i.ibb.co/VT9kWds/Screenshot-2024-01-18-at-7-52-02-AM.png" alt="Screenshot-2024-01-18-at-7-52-02-AM" border="0"></a>
 
 
 <h1>Shua-Aesthetics</h1>
