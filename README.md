@@ -1,73 +1,72 @@
-# Shua-Aesthetics
+<img  alt="Coding" width="100%" height= "100%" src="https://i.ibb.co/t8QVrbK/Screenshot-2024-01-18-at-7-50-27-AM.png" alt="Screenshot-2024-01-18-at-7-50-27-AM" border="0">
 
-Welcome to Shua-Aesthetics, your go-to platform for seamless cosmetology appointments and enhanced communication with our skilled cosmetologists.
+<h1>Shua-Aesthetics</h1>
 
-## Table of Contents
+<p>Welcome to Shua-Aesthetics, your go-to platform for seamless cosmetology appointments and enhanced communication with our skilled cosmetologists.</p>
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+<h2>Table of Contents</h2>
 
-## Introduction
+<ul>
+  <li><a href="#introduction">Introduction</a></li>
+  <li><a href="#features">Features</a></li>
+  <li><a href="#getting-started">Getting Started</a></li>
+  <li><a href="#usage">Usage</a></li>
+  <li><a href="#contributing">Contributing</a></li>
+  <li><a href="#license">License</a></li>
+</ul>
 
-Shua-Aesthetics is a user-friendly website designed to streamline the appointment booking process with our team of experienced cosmetologists. We understand the importance of effective communication, which is why our platform includes a messaging system that allows users to interact directly with our professionals.
+<h2>Introduction</h2>
 
-## Features
+<p>Shua-Aesthetics is a user-friendly website designed to streamline the appointment booking process with our team of experienced cosmetologists. We understand the importance of effective communication, which is why our platform includes a messaging system that allows users to interact directly with our professionals.</p>
 
-- **User Registration and Login:** Securely create an account and log in to access the platform's features.
+<h2>Features</h2>
 
-- **Appointment Booking:** Schedule appointments with our cosmetologists at your convenience.
+<ul>
+  <li><strong>User Registration and Login:</strong> Securely create an account and log in to access the platform's features.</li>
+  <li><strong>Appointment Booking:</strong> Schedule appointments with our cosmetologists at your convenience.</li>
+  <li><strong>Interactive Messaging:</strong> Communicate with cosmetologists through our integrated chat system, making it easier to ask questions, share preferences, or clarify details.</li>
+  <li><strong>User-Friendly Interface:</strong> Enjoy a clean and intuitive user interface that enhances your booking experience.</li>
+</ul>
 
-- **Interactive Messaging:** Communicate with cosmetologists through our integrated chat system, making it easier to ask questions, share preferences, or clarify details.
+<h2>Getting Started</h2>
 
-- **User-Friendly Interface:** Enjoy a clean and intuitive user interface that enhances your booking experience.
+<ol>
+  <li>Clone this repository to your local machine using Git:
+    <pre>git clone git@github.com:KanaeBunche/Shua-Aesthetics.git</pre></li>
+  <li>Set up the required dependencies for the project. Ensure you have Node.js and npm (Node Package Manager) installed.</li>
+  <li>Navigate to the project directory and install the project's dependencies.
+    <pre>cd Shua-Aesthetics
+yarn install</pre></li>
+  <li>Start the application locally.
+    <pre>yarn start</pre></li>
+  <li>Access the website by opening your web browser and navigating to <code>http://localhost:3000</code>.</li>
+</ol>
 
-## Getting Started
+<h2>Usage</h2>
 
-To get started with Shua-Aesthetics, follow these steps:
+<ol>
+  <li><strong>User Registration and Login:</strong>
+    <ul>
+      <li>Create an account or log in to your existing account.</li>
+    </ul>
+  </li>
+  <li><strong>Appointment Booking:</strong>
+    <ul>
+      <li>Schedule appointments with your preferred cosmetologist by selecting available time slots.</li>
+    </ul>
+  </li>
+  <li><strong>Interactive Messaging (Backend Communication):</strong>
+    <ul>
+      <li>Communicate with cosmetologists through the integrated messaging system by sending messages to our backend. Our messaging feature facilitates communication with our cosmetologists through our platform, ensuring that your messages and inquiries are securely stored and accessible to our team.</li>
+    </ul>
+  </li>
+</ol>
 
-1. Clone this repository to your local machine using Git:
-   ```bash
-   git clone git@github.com:KanaeBunche/Shua-Aesthetics.git
+<h2>Contributing</h2>
 
+<p>We welcome contributions from the open-source community to enhance Shua-Aesthetics. If you'd like to contribute, please follow our <a href="CONTRIBUTING.md">contributing guidelines</a>.</p>
 
-2. Set up the required dependencies for the project. Ensure you have Node.js and npm (Node Package Manager) installed.
+<h2>License</h2>
 
-3. Navigate to the project directory and install the project's dependencies.
-   ```bash
-   cd Shua-Aesthetics
-   yarn install
-   ```
-
-4. Start the application locally.
-   ```bash
-   yarn start
-   ```
-
-5. Access the website by opening your web browser and navigating to `http://localhost:3000`.
-
-## Usage
-
-1. **User Registration and Login:**
-   - Create an account or log in to your existing account.
-
-2. **Appointment Booking:**
-   - Schedule appointments with your preferred cosmetologist by selecting available time slots.
-
-3. **Interactive Messaging (Backend Communication):**
-   - Communicate with cosmetologists through the integrated messaging system by sending messages to our backend. Our messaging feature facilitates communication with our cosmetologists through our platform, ensuring that your messages and inquiries are securely stored and accessible to our team.
-
-
-## Contributing
-
-We welcome contributions from the open-source community to enhance Shua-Aesthetics. If you'd like to contribute, please follow our [contributing guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 ```
-
-Make sure to replace `<repository-url>` with the actual URL of your GitHub repository. You can also customize this README with specific installation instructions, project structure details, and any other information relevant to your project. Additionally, consider including a "Contributing" section if you want to invite contributions from others.
