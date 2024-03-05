@@ -41,7 +41,7 @@ Before you begin, make sure you have the following installed:
 
    - Build the frontend application:
      ```
-     yarn build
+     yarn start
      ```
 
 4. **Set Up Backend**
