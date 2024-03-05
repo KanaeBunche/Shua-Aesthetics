@@ -1,8 +1,99 @@
 <a href="https://kanaebunche.github.io/kanaebunche.githhub.io"><img height="100%" width="100%" src="https://i.ibb.co/VT9kWds/Screenshot-2024-01-18-at-7-52-02-AM.png" alt="Screenshot-2024-01-18-at-7-52-02-AM" border="0"></a>
 
 
+# README.md
 
-<h1>Shua-Aesthetics</h1>
+## Shua-Aesthetics Full-Stack Project Setup Guide
+
+Welcome to our full-stack project! This guide will help you set up the development environment and run the project on your local machine.
+
+### Prerequisites
+
+Before you begin, make sure you have the following installed:
+
+- Node.js and Yarn (Node Package Manager)
+- Python (version 3.x recommended) and pip (Python package manager)
+- Git
+
+### Steps to Set Up Full-Stack Project
+
+1. **Clone the Repository**: Clone the repository to your local machine using the following command:
+   ```
+   git clone <repository_url>
+   ```
+
+2. **Navigate to Project Directory**: Change your current directory to the project folder:
+   ```
+   cd <project_directory>
+   ```
+
+3. **Set Up Frontend**
+
+   - Navigate to the frontend directory:
+     ```
+     cd frontend
+     ```
+
+   - Install dependencies using Yarn:
+     ```
+     yarn install
+     ```
+
+   - Build the frontend application:
+     ```
+     yarn build
+     ```
+
+4. **Set Up Backend**
+
+   - Navigate back to the project directory:
+     ```
+     cd ..
+     ```
+
+   - Create a virtual environment (optional but recommended):
+     ```
+     python -m venv venv
+     ```
+
+   - Activate the virtual environment:
+     - On Windows:
+       ```
+       venv\Scripts\activate
+       ```
+     - On macOS and Linux:
+       ```
+       source venv/bin/activate
+       ```
+
+   - Install Python dependencies:
+     ```
+     pip install -r requirements.txt
+     ```
+
+5. **Run the Application**
+
+   - Start the backend server:
+     ```
+     python app.py
+     ```
+
+   - The backend server will run on `http://localhost:5000`.
+
+6. **Access the Frontend**
+
+   - Open your web browser and navigate to `http://localhost:5000` to view the frontend of the application.
+
+7. **Interact with the Application**
+
+   - You can now interact with the application and explore its features.
+
+### Additional Notes
+
+- Replace `<repository_url>` and `<project_directory>` with the actual URL of the repository and the name of your project directory, respectively.
+- If you encounter any issues during the setup process, refer to the project documentation or seek help from the project maintainers.
+
+
 
 <p>Welcome to Shua-Aesthetics, your go-to platform for seamless cosmetology appointments and enhanced communication with our skilled cosmetologists.</p>
 
